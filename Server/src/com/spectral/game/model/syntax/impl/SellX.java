@@ -1,0 +1,29 @@
+package com.spectral.game.model.syntax.impl;
+
+import com.spectral.game.entity.impl.player.Player;
+import com.spectral.game.model.PlayerStatus;
+import com.spectral.game.model.container.impl.shop.ShopManager;
+import com.spectral.game.model.syntax.EnterSyntax;
+
+public class SellX implements EnterSyntax {
+	
+	private final int slot, itemId;
+	
+	public SellX(int itemId, int slot) {
+		this.itemId = itemId;
+		this.slot = slot;
+	}
+	
+	@Override
+	public void handleSyntax(Player player, String input) {
+
+	}
+
+	@Override
+	public void handleSyntax(Player player, int input) {
+		if (player.getStatus() == PlayerStatus.SHOPPING) {
+			ShopManager.sellItem(player, slot, itemId, input);
+		}
+	}
+
+}
