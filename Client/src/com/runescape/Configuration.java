@@ -159,5 +159,5 @@ public final class Configuration {
 	 * Enables bounty hunter interface
 	 */
 	public static boolean bountyHunterInterface = true;
-
+	
 }
