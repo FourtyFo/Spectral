@@ -6,6 +6,10 @@
           <option name="url" value="https://ItsRemi@bitbucket.org/Clank1337/lost-izzle.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/FourtyFo/Spectral.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Jay\IdeaProjects" />

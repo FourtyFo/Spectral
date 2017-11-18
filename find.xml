@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'Lost Isle Source'" />
-    <option name="defaultScopeName" value="Project 'Lost Isle Source'" />
+    <option name="customScope" value="Project 'Server'" />
+    <option name="defaultScopeName" value="Project 'Server'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'Lost Isle Source'" />
+    <option name="SEARCH_SCOPE" value="Project 'Server'" />
   </component>
 </application>
