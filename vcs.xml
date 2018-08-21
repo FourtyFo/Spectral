@@ -22,6 +22,10 @@
           <option name="url" value="https://Remgod@bitbucket.org/iamtommo/kodai.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:Remgod/athena.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Jay\IdeaProjects" />
